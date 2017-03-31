@@ -1,0 +1,187 @@
+{
+
+	"global": {
+
+		"lang": "kr",
+
+		"english": "영어",
+
+		"french": "프랑스어",
+		
+		"italian": "이탈리아어",
+		
+		"korean": "한국어",
+		
+		"chooseLanguage": "언어 선택",
+
+		"currentLanguage": "한국어",
+
+		"secureEmail": "암호화 메일",
+
+		"about": "소개",
+
+		"security": "보안",
+
+		"support": "지원",
+
+		"blog": "블로그",
+
+		"careers": "채용",
+
+		"donate": "기부",
+
+		"mediaKit": "마케팅",
+
+		"threatModel": "Threat Model",
+
+		"logIn": "로그인",
+
+		"signUp": "회원가입",
+
+		"cta": "암호화된 이메일 계정을 만드십시오.",
+
+		"forSupportInquiries": "지원 문의는 다음을 방문하십시오.",
+
+		"forSecurityDiscussion": "보안 관련 토론",
+
+		"footerCopyright": "&copy; 2016 Proton Technologies AG. All Rights Reserved.",
+
+		"security": "보안",
+
+		"imprints": "Imprint",
+
+		"privacyPolicy": "개인정보 취급방침",
+
+		"termsAndConditions": "Terms &amp; Conditions",
+
+		"transparencyReport": "투명성보고서",
+
+		"pricing": "Pricing",
+
+		"support": "지원",
+
+		"team":"팀",
+
+		"feedbackForum": "피드백 포럼"
+
+	},
+
+	"home": {
+
+		"pageTitle": "Secure email: ProtonMail is free encrypted email.",
+
+		"loading": "로딩 중...",
+
+		"title": "스위스에 본사를 둔 <br>보안 이메일",
+
+		"subtitle": "ProtonMail을 사용하여 커뮤니케이션을 안전하게 하십시오.",
+
+		"cta": "암호화 된 이메일 계정을 생성하세요.",
+
+		"appTitle": "ProtonMail 모바일 앱은 현재 전 세계에서 사용할 수 있습니다.",
+
+		"appSubTitle": "Introducing Encrypted Email for Your Mobile Device",
+
+		"getAndroid": "Android 앱 다운로드",
+
+		"getIOS": "iOS 앱 다운로드",
+
+		"useWeb": "Use the Web Version",
+
+		"featPrivacyTitle": "스위스 보안정책",
+
+		"featPrivacySubTitle": "Data Security and Neutrality",
+
+		"featPrivacyDetails": "ProtonMail은 스위스에 통합되어 있으며 모든 서버는 스위스에 있습니다. 즉, 모든 사용자 데이터는 엄격한 스위스 개인 정보 보호법에 의해 보호됩니다.",
+
+		"featE2ETitle": "종단간 암호화n",
+
+		"featE2ESubTitle": "Automatic Email Security",
+
+		"featE2EDetails": "All emails are secured automatically with end-to-end encryption. This means even we cannot decrypt and read your emails. As a result, your encrypted emails cannot be shared with third parties.",
+
+		"featAnonTitle": "Anonymous Email",
+
+		"featAnonSubTitle": "개인정보를 보호하세요",
+
+		"featAnonDetails": "No personal information is required to create your secure email account. By default, we do not keep any IP logs which can be linked to your anonymous email account. Your privacy comes first.",
+
+		"featFreeTitle": "100% 무료",
+
+		"featFreeSubTitle": "Free Secure Email",
+
+		"featFreeDetails": "We believe email privacy and security are fundamental human rights that should be available for everyone. Basic ProtonMail accounts are always free. You can support the project by <a href='https://protonmail.com/donate'>donating</a> or <a href='https://protonmail.com/pricing'>upgrading to a paid account</a>.",
+
+		"featEasyTitle": "쉬운 사용법",
+
+		"featEasySubTitle": "Security without the hassle",
+
+		"featEasyDetails": "ProtonMail can be used on any device without software install. ProtonMail secure email accounts are fully compatible with other email providers. You can send and receive emails normally.",
+
+		"featDesignTitle": "Modern Inbox Design",
+
+		"featDesignSubTitle": "Security with Productivity",
+
+		"featDesignDetails": "The ProtonMail inbox is optimized for productivity. Each detail within our secure email service is optimized to help you better read, organize, and send email.",
+
+		"designTitle": "Security Meets Modern Design",
+
+		"designSubTitle": "Our next-generation inbox is designed to help you work faster by being easy to use. The encryption we use to ensure email privacy is completely invisible.",
+
+		"securityTitle": "Physical Security",
+
+		"securityDetails": "ProtonMail's infrastructure resides in Europe's most secure datacenter, underneath 1000 meters of solid rock.",
+
+		"securityCta": "Learn more about our security features",
+
+		"storyTitle": "Our story begins where the web was born, at CERN.",
+
+		"storySubTitle": "We are scientists, engineers, and developers working to protect <br>civil liberties online.",
+
+		"storyDetails1": "ProtonMail was founded in 2013 by scientists who met at CERN and were drawn together by a shared vision of a more secure and private Internet. Since then, ProtonMail has evolved into a global effort to protect civil liberties and build a more secure Internet, with team members also hailing from Caltech, Harvard, ETH Zurich and many other research institutions.",
+
+		"storyDetails2": "Today, we help our community of over half a million users secure their private data online. More than 10,000 supporters have assisted us in this mission by donating to make this project possible. Thanks to your support, we are continuing to develop state of the art email privacy and security technology from our home base of Geneva, Switzerland.",
+
+		"meetTeam": "Meet our team",
+
+		"joinUs": "Join us",
+
+		"mapTitle": "<span>Based in Switzerland</span><span>With Global Support</span>",
+
+		"donatePaypal": "기부",
+
+		"donateBitcoin": "Upgrade to Paid Plan",
+
+		"privacyTitle": "Privacy is a fundamental human right.<br>Your support helps us to protect privacy world-wide.",
+
+		"recentNews": "최근 소식",
+
+		"partnersTitle": "파트너와 스폰서"
+
+	},
+
+
+
+	"about": {
+
+		"title": "We're <span>building</span> an <span>internet</span> that <span>protects privacy</span>, starting with email.",
+
+		"info": "<p>우리는 과학자, 기술자 및 개발자로서 시민의 자유를 온라인으로 보호한다는 공동의 비전을 통해 함께 모였습니다. 이것이 우리가 ProtonMail을 만든 이유입니다. 내장된 종단간 암호화 기능과 최첨단 보안 기능을 갖춘 보안 e-메일 서비스를 간편하게 사용할 수 있습니다. 우리의 목표는 프라이버시를 존중하는 인터넷을 구축하는 것과 사이버 범죄에 맞서는 것입니다.</p><p>We are committed to developing and widely distributing the tools necessary to protect your data online. Our team combines deep mathematical and technical knowledge from the world's top research institutions with expertise in building easy to use user interfaces. Together, we are building the encrypted communication technologies of the future.</p>",
+
+		"exploreSecurityFeatures": "Explore Our Security Features",
+
+		"readBlog": "read our blog",
+
+		"joinTitle": "Interested in making privacy the default online?",
+
+		"joinSubTitle": "We are looking for talented individuals interested in building a more secure and private internet.",
+
+		"openPositions": "See our open positions",
+
+		"companyInfo": "<p>Since our founding team met at CERN and created ProtonMail, Proton Technologies AG has grown into a global leader in online security. Today, we are the world's largest secure email provider with over half a million users. In addition to our headquarters in Geneva, Switzerland, we have support centers in San Francisco, CA, and Skopje, Macedonia. Our global presence allows us to provide 24/7 support and monitoring of mission critical applications for all our customers.</p><p>We believe privacy and security are universal values which cross borders. Inclusion and diversity are core company values. Collectively, our team of experts from around the world speak English, French, German, Italian, Spanish, Czech, Macedonian, Chinese and Russian.</p><p><p>ProtonMail is supported by more than 10,000 individuals from around the world who participated in our record-breaking crowdfunding <a href=\"http://igg.me/projects/protonmail\" target=\"_blank\">campaign</a>.Additional backers include <a href=\"http://www.crv.com/\" target=\"_blank\">Charles River Ventures</a> and the <a href=\"http://www.fongit.ch/\" target=\"_blank\">Fondation Genevoise pour l'Innovation Technologique</a> (FONGIT), a non-profit foundation financed by the <a href=\"https://www.kti.admin.ch/kti/en/home.html\" target=\"_blank\">Swiss Federal Commission for Technology and Innovation</a> for the public good. We are also advised by the <a href=\"http://vms.mit.edu/\" target=\"_blank\">MIT Venture Mentoring Service</a>.</p></p>"
+
+
+
+	}
+
+}
